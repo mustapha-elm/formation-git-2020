@@ -1,0 +1,11 @@
+commit ef9fdb9a83de440b75e714f23f1b212f58aa432c
+Author: mustapha <mustapha.elm@hotmail.fr>
+Date:   Mon Nov 16 11:48:54 2020 +0100
+
+    création du fichier css et titre mis en bleu
+
+commit d480c8a564a682d159f2ea244e0335381a5cab96
+Author: mustapha <mustapha.elm@hotmail.fr>
+Date:   Mon Nov 16 11:39:12 2020 +0100
+
+    création de la page d'accueuil et du tite principal
